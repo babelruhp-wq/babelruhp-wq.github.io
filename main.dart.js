@@ -9689,7 +9689,7 @@ this.b=b},
 aNu:function aNu(a){this.a=a},
 aNE:function aNE(){},
 aNC:function aNC(a){this.a=a},
-brO(a,b,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9){var s,r,q,p,o,n=null,m="\u0645\u0646 \u0641\u0636\u0644\u0643 \u0627\u062e\u062a\u0631 \u0645\u0643\u062a\u0628 \u0623\u0648\u0644\u0627\u064b.",l="all_workers",k="http://babel.runasp.net",j="\u0647\u0630\u0647 \u0627\u0644\u0635\u0641\u062d\u0629 \u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064a\u0646 \u0641\u0642\u0637",i=b.b,h=new A.aYy(A.bR(a,!0,t.eM).a.gd8()==="ar"),g=A.bR(a,!0,t.d).glo(),f=g==="Admin",e=g==="Manager",d=new A.aYz(),c=new A.aYA()
+brO(a,b,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9){var s,r,q,p,o,n=null,m="\u0645\u0646 \u0641\u0636\u0644\u0643 \u0627\u062e\u062a\u0631 \u0645\u0643\u062a\u0628 \u0623\u0648\u0644\u0627\u064b.",l="all_workers",k="https://babel.runasp.net",j="\u0647\u0630\u0647 \u0627\u0644\u0635\u0641\u062d\u0629 \u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064a\u0646 \u0641\u0642\u0637",i=b.b,h=new A.aYy(A.bR(a,!0,t.eM).a.gd8()==="ar"),g=A.bR(a,!0,t.d).glo(),f=g==="Admin",e=g==="Manager",d=new A.aYz(),c=new A.aYA()
 switch(a6.a){case 0:return new A.Tr(b,b7,n)
 case 1:if(b8==null)return d.$2$message$onBack("\u0645\u0646 \u0641\u0636\u0644\u0643 \u0627\u062e\u062a\u0631 \u062f\u0648\u0644\u0629 \u0623\u0648\u0644\u0627\u064b.",a0)
 return new A.Rv(b8,i,a0,b6,n)
@@ -51693,7 +51693,7 @@ A.aZq.prototype={
 $1(a){return new A.ik(B.pJ,$.ae())},
 $S:319}
 A.aZr.prototype={
-$1(a){var s=new A.n3(new A.Qh("http://babel.runasp.net"),new A.a0U(),$.ae())
+$1(a){var s=new A.n3(new A.Qh("https://babel.runasp.net"),new A.a0U(),$.ae())
 s.vP()
 return s},
 $S:320}
@@ -53384,10 +53384,10 @@ return A.bjY(A.kB(A.QB(new A.aiP(this),new A.aiQ(),new A.aiR(),r,t.Cp),new A.aiS
 Ze(a){var s=null
 return A.U(s,a,B.h,s,s,new A.V(B.d,s,s,A.w(12),A.b([new A.bq(0,B.T,A.Q(10,B.m.l()>>>16&255,B.m.l()>>>8&255,B.m.l()&255),B.mj,12)],t.V),s,B.k),s,s,s,s,B.cQ,s,s,s)}}
 A.aiN.prototype={
-$1(a){return new A.yv(A.b5Q(A.b5_("http://babel.runasp.net",B.kN,B.kN)))},
+$1(a){return new A.yv(A.b5Q(A.b5_("https://babel.runasp.net",B.kN,B.kN)))},
 $S:380}
 A.aiO.prototype={
-$1(a){return A.aiu("http://babel.runasp.net")},
+$1(a){return A.aiu("https://babel.runasp.net")},
 $S:381}
 A.aiS.prototype={
 $1(a){var s=new A.ut(A.bR(a,!1,t.SW),A.bR(a,!1,t.Dt),this.a.c.a,B.cn,B.abn)
@@ -53800,7 +53800,7 @@ return A.b2_(A.b7v(A.CF(s,A.QB(new A.ajo(this,r==="Admin",r==="Manager"),new A.a
 UE(a){var s=null
 return A.U(s,a,B.h,s,s,new A.V(B.d,s,s,A.w(12),A.b([new A.bq(0,B.T,A.Q(10,B.m.l()>>>16&255,B.m.l()>>>8&255,B.m.l()&255),B.mj,12)],t.V),s,B.k),s,s,s,s,B.cQ,s,s,s)}}
 A.ajs.prototype={
-$1(a){return new A.xf(A.b5Q(A.b5_("http://babel.runasp.net",B.kN,B.kN)))},
+$1(a){return new A.xf(A.b5Q(A.b5_("https://babel.runasp.net",B.kN,B.kN)))},
 $S:416}
 A.ajm.prototype={
 $1(a){var s=new A.ta(A.bR(a,!1,t.A8),B.cn,B.Th)
@@ -56237,7 +56237,7 @@ ax0(){return this.N(new A.aNt(this))},
 aG4(a){this.N(new A.aNP(this,a))},
 aFS(){return this.N(new A.aNJ(this))},
 awZ(){return this.N(new A.aNs(this))},
-B(a){var s,r=null,q="http://babel.runasp.net/",p="Constants.token",o=A.bJ(a,r,t.l).w.a.a
+B(a){var s,r=null,q="https://babel.runasp.net/",p="Constants.token",o=A.bJ(a,r,t.l).w.a.a
 if(this.r)s=o>1200?250:210
 else s=64
 return A.b7v(new A.e6(new A.aNF(this,A.bR(a,!0,t.eM).a.gd8()==="ar",o<768,s),r),A.b([A.kB(r,new A.aNG(q,p),t.MY),A.kB(r,new A.aNH(q,p),t.kP)],t.Ds))}}
@@ -56397,7 +56397,7 @@ for(;;)switch(s){case 0:o=p.b
 n=p.d
 n.toString
 s=3
-return A.m(A.b_x(p.a,"http://babel.runasp.net",p.c.$1(n),null,o.a,o.b),$async$$0)
+return A.m(A.b_x(p.a,"https://babel.runasp.net",p.c.$1(n),null,o.a,o.b),$async$$0)
 case 3:q=b
 s=1
 break
@@ -56412,7 +56412,7 @@ for(;;)switch(s){case 0:o=p.a
 n=p.c
 n.toString
 s=3
-return A.m(A.b_x(a,"http://babel.runasp.net",p.b.$1(n),b,o.a,o.b),$async$$2)
+return A.m(A.b_x(a,"https://babel.runasp.net",p.b.$1(n),b,o.a,o.b),$async$$2)
 case 3:q=d===!0
 s=1
 break
@@ -56437,7 +56437,7 @@ $S:588}
 A.aYs.prototype={
 $1(a){var s=this,r=s.b,q=s.d
 q.toString
-return A.b4K("http://babel.runasp.net",s.c.$1(q),s.e,r.a,r.b,new A.aYr(s.a))},
+return A.b4K("https://babel.runasp.net",s.c.$1(q),s.e,r.a,r.b,new A.aYr(s.a))},
 $S:593}
 A.aYr.prototype={
 $0(){return A.bf(this.a,!1).bV(!1)},
@@ -56635,7 +56635,7 @@ return A.U(s,A.hA(!0,A.x2(new A.a_K(this.c,this.d,this.e,s),B.w,s),B.af,!0),B.h,
 A.ya.prototype={
 B(a){return A.kB(A.hs(new A.aql()),new A.aqm(a),t.U0)}}
 A.aqm.prototype={
-$1(a){return new A.u9(new A.Qh("http://babel.runasp.net"),new A.a0U(),A.bR(this.a,!1,t.d),B.cn,B.a8P)},
+$1(a){return new A.u9(new A.Qh("https://babel.runasp.net"),new A.a0U(),A.bR(this.a,!1,t.d),B.cn,B.a8P)},
 $S:640}
 A.aql.prototype={
 $2(a,b){var s,r,q=null,p=b.b<700,o=p?380:560,n=A.U(q,q,B.h,q,q,new A.V(q,q,q,q,q,new A.hW(B.dm,B.fZ,B.c3,A.b([A.Q(B.e.aC(127.5),B.m.l()>>>16&255,B.m.l()>>>8&255,B.m.l()&255),A.Q(89,B.m.l()>>>16&255,B.m.l()>>>8&255,B.m.l()&255),A.Q(140,B.m.l()>>>16&255,B.m.l()>>>8&255,B.m.l()&255)],t.t_),q,q),B.k),q,q,q,q,q,q,q,q),m=p?16:24,l=p?20:28,k=A.Q(235,B.bI.l()>>>16&255,B.bI.l()>>>8&255,B.bI.l()&255),j=t.V,i=A.b([new A.bq(0,B.T,A.Q(64,B.m.l()>>>16&255,B.m.l()>>>8&255,B.m.l()&255),B.eP,18)],j),h=A.Q(36,B.d.l()>>>16&255,B.d.l()>>>8&255,B.d.l()&255),g=A.w(14)
@@ -57292,7 +57292,7 @@ glf(){return this.e}}
 A.a8i.prototype={
 ap(){var s,r=this
 r.b5()
-s=new A.Gu(A.aiu("http://babel.runasp.net"),B.cn,new A.Yo())
+s=new A.Gu(A.aiu("https://babel.runasp.net"),B.cn,new A.Yo())
 s.jO(r.a.e)
 r.d!==$&&A.bC()
 r.d=s
@@ -57423,7 +57423,7 @@ ap(){var s,r=this
 r.b5()
 A.Po()
 s=new A.lD(A.b([],t.O))
-s=new A.Gx(new A.BZ("http://babel.runasp.net",s),B.cn,new A.Yt())
+s=new A.Gx(new A.BZ("https://babel.runasp.net",s),B.cn,new A.Yt())
 s.jO(r.a.e)
 r.d!==$&&A.bC()
 r.d=s
@@ -57560,7 +57560,7 @@ A.Q8.prototype={
 B(a){var s=null
 return A.kB(A.pt(A.k8(s,B.nR,A.hA(!0,A.bP(new A.c6(new A.ac(0,1400,0,1/0),new A.as(B.oq,A.aM(B.Z2,B.c9,B.j,B.l),s),s),s,s),B.af,!0),s,s),B.ah),new A.afO(),t.MY)}}
 A.afO.prototype={
-$1(a){var s=A.b4R(A.b4S("http://babel.runasp.net",null))
+$1(a){var s=A.b4R(A.b4S("https://babel.runasp.net",null))
 s.eS()
 return s},
 $S:160}
@@ -57728,7 +57728,7 @@ A.Qa.prototype={
 B(a){var s=null
 return A.kB(A.pt(A.k8(s,B.nR,A.hA(!0,A.bP(new A.c6(new A.ac(0,1400,0,1/0),new A.as(B.oq,A.aM(A.b([new A.a6S(s),B.aa,B.V5],t.p),B.c9,B.j,B.l),s),s),s,s),B.af,!0),s,s),B.ah),new A.afS(),t.Lz)}}
 A.afS.prototype={
-$1(a){var s="http://babel.runasp.net",r=new A.p8(new A.afT(B.b.i7(s,"/")?B.b.a1(s,0,22):s),B.cn,B.NI)
+$1(a){var s="https://babel.runasp.net",r=new A.p8(new A.afT(B.b.i7(s,"/")?B.b.a1(s,0,23):s),B.cn,B.NI)
 r.eS()
 return r},
 $S:701}
